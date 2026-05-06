@@ -1,0 +1,3 @@
+﻿,Accuracy,F1 (Weighted),F1 (Negative),F1 (Positive),Precision,Recall,CV Mean F1,CV Std,AUC
+Logistic Regression,0.9228,0.9227,0.9386,0.8961,0.9227,0.9228,0.9207,0.0014,0.9678
+Multinomial NB,0.9049,0.9027,0.9279,0.8604,0.9097,0.9049,0.9063,0.0021,0.9561
