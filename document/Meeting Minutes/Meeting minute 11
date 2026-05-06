@@ -1,0 +1,43 @@
+Meeting 11
+Date: 24th March, 2026
+Location: In Class
+Minute Taker: Pranika Shrestha
+1.	Attendees:
+Present: Pranika, Subhashree, Puja, Aharan, Ajay
+
+2.	Goal of Meeting:
+-	To review evaluation results and begin dashboard development
+
+3.	Agenda & Discussion:
+-	Reviewed and discussed on evaluation results (model performance and comparison)
+-	Identified the need to strengthen understanding through additional literature review and research articles
+-	Decided to start dashboard development and agreed on dividing it into 5 pages:
+o	Project Overview – Puja
+o	Fake Review Detection – Subhashree 
+o	Sentiment Analysis – Pranika 
+o	Live Prediction – Ajay 
+-	Discussed starting proper GitLab commits based on individual contributions. 
+-	Agreed to organise and structure project folders clearly.
+4.	Decision Made:
+-	Continue weekly literature review. 
+-	Start dashboard development with clear role allocation.
+-	Maintain proper GitLab commits and folder organisation.
+-	Continue working on documents alongside development
+
+5.	Action (What needs to be done & by whom)
+-	Puja: Work on Project Overview page 
+-	Aharan: Develop EDA Explorer page 
+-	Subhashree: Prepare Fake Review (Anomaly) page 
+-	Pranika: Work on Sentiment Analysis page 
+-	Ajay: Prepare Live Prediction functionality 
+-	All: Continue documentation and support dashboard development when needed 
+-	All: Start committing work individually on GitLab and organise folders
+
+6.	Next Meeting:
+-	Review dashboard progress and check completion of initial pages (Project Overview & EDA Explorer). 
+-	If progress is on track, begin development of remaining dashboard pages while continuing report writing. 
+
+
+
+
+

@@ -1,0 +1,37 @@
+Meeting 9
+Date: 10th Mar, 2026
+Location: In Class
+Minute Taker: Pranika Shrestha 
+1.	Attendees:
+Present: Pranika, Subhashree, Puja, Aharan
+Absent: Ajay
+
+2.	Goal of Meeting:
+-	To review model training progress and prepare evaluation work.
+-	To discuss on the feedback questionnaire 
+
+3.	Agenda & Discussion:
+-	Reviewed progress on sentiment model training. 
+-	Planned feedback questionnaire. 
+-	Discussed evaluation metrics: 
+o	Cross-validation 
+o	Confusion matrix 
+o	ROC curve
+-	Discuss on feedback questionnaire to present next week
+
+4.	Decision Made:
+-	Continue weekly literature review 
+-	Strengthen evaluation using research-backed methods
+-	Work on the feedback questionnaires. (Update Ajay regarding this)
+
+5.	Action (What needs to be done & by whom)
+-	Ajay: Continue model training and evaluation 
+-	Subhashree: Work on cross-validation analysis 
+-	Puja & Pranika: Literature review on evaluation metrics and Work on impact analysis (clean vs unfiltered data)
+-	All: Worked on feedback questionnaire
+
+6.	Next Meeting:
+-	Review evaluation metrics (cross-validation, confusion matrix, ROC curve) and prepare for final model comparison. 
+
+
+

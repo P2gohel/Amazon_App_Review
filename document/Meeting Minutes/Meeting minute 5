@@ -1,0 +1,30 @@
+Meeting 5
+Date: 15th Feb, 2026
+Location: In Library 
+Minute Taker: Pranika Shrestha 
+1.	Attendees:
+Present: Pranika, Subhashree, Puja, Aharan, Ajay
+
+2.	Goal of Meeting:
+-	To strengthen literature review and review technical progress
+
+3.	Agenda & Discussion:
+-	Worked on annotated literature review on Isolation Forest, Rule-based approach. 
+-	Presented: 
+o	Anomaly detection methods 
+o	Sentiment analysis models 
+-	Reviewed EDA notebook and markdown documentation.
+
+4.	Decision Made:
+-	Continue weekly literature review 
+-	Improve technical documentation based on feedback
+
+5.	Action (What needs to be done & by whom)
+-	Subhashree: Start Isolation Forest model 
+-	Pranika: Plan anomaly evaluation approach 
+-	Aharan: Prepare sentiment dataset 
+-	All: Add comments and improve code readability
+
+6.	Next Meeting:
+-	Review anomaly detection implementation (rule-based + Isolation Forest) and progress on annotated literature review.
+

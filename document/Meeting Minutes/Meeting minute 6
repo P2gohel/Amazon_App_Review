@@ -1,0 +1,33 @@
+Meeting 6
+Date: 17th Feb, 2026
+Location: In Class
+Minute Taker: Pranika Shrestha 
+1.	Attendees:
+Present: Pranika, Subhashree, Aharan, Ajay
+Absent: Puja
+
+
+2.	Goal of Meeting:
+-	To review anomaly detection progress and prepare for upcoming milestone presentation.
+
+3.	Agenda & Discussion:
+-	Presented anomaly detection work: 
+o	Rule-based detection 
+o	Isolation Forest comparison 
+-	Confirmed annotated literature review completed. 
+-	Planned upcoming presentation (in 2 weeks)
+
+4.	Decision Made:
+-	Continue weekly literature review 
+-	Improve evaluation approach based on supervisor feedback
+-	
+5.	Action (What needs to be done & by whom)
+-	Subhashree: Improve Isolation Forest model 
+-	Pranika: Work on validation and evaluation (PCA, score distribution) 
+-	Aharan: Prepare sentiment dataset 
+-	Ajay: Begin sentiment model setup 
+-	All: Improve documentation and comments
+
+6.	Next Meeting:
+-	Review anomaly detection evaluation (PCA, score distribution) and progress on sentiment data preparation.
+

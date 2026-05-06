@@ -1,0 +1,30 @@
+Meeting 7
+Date: 24th Feb, 2026
+Location: In Class
+Minute Taker: Pranika Shrestha 
+1.	Attendees:
+Present: Pranika, Subhashree, Aharan, Ajay
+
+2.	Goal of Meeting:
+-	To review sentiment data preparation and prepare for progress presentation.
+
+3.	Agenda & Discussion:
+-	Completed:
+o	Sentiment data preparation
+o	EDA for sentiment analysis
+-	Continued literature review on evaluation techniques.
+
+4.	Decision Made:
+-	Continue weekly literature review 
+-	Align work with feedback and presentation requirements
+
+5.	Action (What needs to be done & by whom)
+-	Aharan: Sentiment labelling + train/test split 
+-	Ajay: TF-IDF preparation 
+-	Pranika: Continue anomaly validation 
+-	All: Prepare presentation slides
+
+6.	Next Meeting:
+-	Review presentation progress and check completion of sentiment data preparation (labelling, split, TF-IDF).
+
+

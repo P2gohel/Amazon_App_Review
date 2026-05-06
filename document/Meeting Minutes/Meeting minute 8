@@ -1,0 +1,31 @@
+Meeting 8
+Date: 3rd Mar, 2026
+Location: In Class
+Minute Taker: Pranika Shrestha 
+1.	Attendees:
+Present: Pranika, Subhashree, Puja, Aharan, Ajay
+
+2.	Goal of Meeting:
+-	To present progress and refine modelling approach.
+
+3.	Agenda & Discussion:
+-	Delivered progress presentation. 
+-	Showed literature review on evaluation methods. 
+-	Updated GitLab with team contributions. 
+-	Feedback received: include additional ML models.
+-	
+4.	Decision Made:
+-	Continue weekly literature review 
+-	Apply feedback by expanding model comparison 
+-	Decision to include Naive Bayes model
+
+5.	Action (What needs to be done & by whom)
+-	Ajay: Train Logistic Regression and Naive Bayes 
+-	Aharan: Continue TF-IDF and preprocessing 
+-	Pranika: Finalise anomaly outputs 
+-	All: Update documentation
+
+6.	Next Meeting:
+-	Review model training progress (Logistic Regression and Naive Bayes) and evaluate initial results.
+
+
